@@ -1,6 +1,6 @@
 # PDF 打印小工具说明 / PDF Booklet Tool Description
 
-## 中文说明 Chinese Description
+## 中文说明
 
 这是一个 pdf 打印小工具，用于将 pdf 文件变成小册子的形式。  
 本程序使用 PyMuPDF 库实现主要功能。  
